@@ -4,13 +4,13 @@
 
 Let's get together and hack on some Kaggle competitions! Join the [UBCS3 mailing list](https://survey.ubc.ca/s/ubcs3-mailing-list/) to get updates.
 
-#### Info
+#### INFO
 
 * Monday, December 1, 2017
 * 12-5pm
 * LSK 462
 
-#### Schedule
+#### SCHEDULE
 
 | | |
 | :-: | :-: |
@@ -20,8 +20,9 @@ Let's get together and hack on some Kaggle competitions! Join the [UBCS3 mailing
 | 4-5pm | Presentations |
 | | |
 
-#### Competitions
+#### COMPETITIONS
 
 * [Spooky Author Identification](https://www.kaggle.com/c/spooky-author-identification)
 * [Zillow Home Price Prediction](https://www.kaggle.com/c/zillow-prize-1)
 * [KKBox Music Recommendation](https://www.kaggle.com/c/kkbox-music-recommendation-challenge)
+* [Denoising Dirty Documents](https://www.kaggle.com/c/denoising-dirty-documents/)
