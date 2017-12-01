@@ -1,5 +1,7 @@
 ## UBC Scientific Software Seminar
 
+The UBC Scientific Software Seminar is inspired by [Software Carpentry](https://software-carpentry.org/) and its goal is to help students, graduates, fellows and faculty at UBC develop software skills for science.
+
 ### Fall 2017: Kaggle Competition Mini Hackathon
 
 Let's get together and hack on some Kaggle competitions! Join the [UBCS3 mailing list](https://survey.ubc.ca/s/ubcs3-mailing-list/) to get updates.
