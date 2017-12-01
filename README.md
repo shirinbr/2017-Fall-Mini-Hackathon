@@ -1,14 +1,16 @@
-# 2017-Fall-Mini-Hackathon
+# UBC Scientific Software Seminar
+
+### Fall 2017: Kaggle Competition Mini Hackathon
 
 Let's get together and hack on some Kaggle competitions! Join the [UBCS3 mailing list](https://survey.ubc.ca/s/ubcs3-mailing-list/) to get updates.
 
-### Info
+#### Info
 
 * Monday, December 1, 2017
 * 12-5pm
 * LSK 462
 
-### Schedule
+#### Schedule
 
 | | |
 | :-: | :-: |
@@ -18,7 +20,7 @@ Let's get together and hack on some Kaggle competitions! Join the [UBCS3 mailing
 | 4-5pm | Presentations |
 | | |
 
-### Competitions
+#### Competitions
 
 * [Spooky Author Identification](https://www.kaggle.com/c/spooky-author-identification)
 * [Zillow Home Price Prediction](https://www.kaggle.com/c/zillow-prize-1)
