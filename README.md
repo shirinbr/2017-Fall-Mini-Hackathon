@@ -1,4 +1,4 @@
-# UBC Scientific Software Seminar
+## UBC Scientific Software Seminar
 
 ### Fall 2017: Kaggle Competition Mini Hackathon
 
