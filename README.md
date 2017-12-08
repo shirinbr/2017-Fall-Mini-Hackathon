@@ -8,7 +8,7 @@ Let's get together and hack on some Kaggle competitions! Join the [UBCS3 mailing
 
 #### INFO
 
-* Monday, December 1, 2017
+* Monday, December 11, 2017
 * 12-5pm
 * LSK 462
 
@@ -25,6 +25,6 @@ Let's get together and hack on some Kaggle competitions! Join the [UBCS3 mailing
 #### COMPETITIONS
 
 * [Spooky Author Identification](https://www.kaggle.com/c/spooky-author-identification)
-* [Zillow Home Price Prediction](https://www.kaggle.com/c/zillow-prize-1)
-* [KKBox Music Recommendation](https://www.kaggle.com/c/kkbox-music-recommendation-challenge)
+* [Web Traffic Time Series Forecasting](https://www.kaggle.com/c/web-traffic-time-series-forecasting/)
 * [Denoising Dirty Documents](https://www.kaggle.com/c/denoising-dirty-documents/)
+* [Zillow Home Price Prediction](https://www.kaggle.com/c/zillow-prize-1)
